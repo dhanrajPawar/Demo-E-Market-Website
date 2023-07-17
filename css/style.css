@@ -1,0 +1,178 @@
+
+body{
+    background-color: black;
+    scroll-behavior: smooth;
+    display: flex;
+ 
+    
+}
+
+.kl{
+    flex:1;
+}
+
+.frame{
+    width:100%;
+    color:chartreuse;
+    font-size:2em;
+    padding-bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    background:linear-gradient(blue,red);
+    text-align: center;
+    height:100px;
+    position:relative;
+    top:0px;
+    border: 3px solid white;
+    
+}
+
+.first{
+    color:aqua;
+    background-color:darkslategray;
+}
+
+h1{
+    font-family:  'Anton', sans-serif;
+    
+}
+
+.p1{
+    font-size: 15px;
+    position: relative;
+    bottom:50px;
+    color: white;
+}
+.hp{
+    position:relative;
+    bottom:228px;
+    right:91%;
+    padding-right:0px;
+    color:white;
+    background-color: black;
+    border:3px double red;
+    border-radius:50px;
+    float: right;
+}
+.hs{
+    position:relative;
+   bottom:228px;
+   left:88%;
+   color:white ;
+   background-color: black;
+   border:3px double red;
+   border-radius: 50px;
+   float:left;
+}
+
+div{
+  
+  background-color:gold;
+  height: 1000px;
+}
+
+.photo{
+    float: left;
+    width:300px;
+    border: 2px solid red;
+    border-radius: 20%;
+    
+    
+}
+@media(max-width:2000px) and (min-width:800px){
+.phot{
+    
+    width:200px;
+    height:170px;
+    position: relative;
+    left:350px;
+    bottom: 25.5%;
+    border: 2px solid red;
+    border-radius: 20%;
+}
+.p4{
+    clear: both;
+    position: relative;
+    left:100px;
+}
+.p3{
+    position: relative;
+    left: 11px;
+    bottom: 10px;
+    color:red;
+    
+}
+.p5{
+   position: relative;
+   left:35.5%;
+   bottom:28%
+}
+.p6{
+    position: relative;
+    left:31%;
+    bottom:29%;
+    color:red;
+}
+hr{
+    width:100%;
+    height:2px;
+    background: linear-gradient(red,blue);
+
+}
+
+.ful{
+    color: chartreuse;
+    font-size: 2em;
+    font-weight: bold;
+}
+.tb{
+    width:70%;
+    padding-left: 50px;
+}
+a{
+    color:white;
+    text-decoration: solid;
+}
+#ap{
+    color: white;
+    background-color:red;
+}
+#sam{
+    color: white;
+    background-color: red;
+}
+#No{
+    color: white;
+    background-color: red;
+}
+#red{
+    color: white;
+    background-color: red;
+}
+.s{
+    height: 3px;
+}
+
+footer{
+    text-align: center;
+    position: relative;
+    top:100px;
+    background-color: black;
+    width: 100%;
+    height:12%
+}
+.p0{
+color:red;
+position:absolute;
+top:70px;
+left:40%;
+}
+h3.nl{
+    color:lawngreen;
+    float:left;
+    
+}
+.p11{
+    color:white;
+    text-align: right;
+}
+}
